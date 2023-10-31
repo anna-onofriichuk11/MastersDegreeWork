@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzGxuW/VIDoVm8AtYRCm7BZ6k3zjJx6DOX1Ps6a8KFvAXXfG3IQi2Gou569R9Olcwc+KduJQm4dqdYKPCEoQCQ==",
+  "success": true,
+  "projectFilePath": "/Users/anna/RiderProjects/MastersDegreeWork/HeartbeatsApp/HeartbeatsApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/anna/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/anna/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
